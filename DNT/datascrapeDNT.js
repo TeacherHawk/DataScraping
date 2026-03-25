@@ -9,7 +9,7 @@ console.log(hytter);
 
 let hyttScrape = [
     [
-        "Betjente hytter på Hardangervidda",
+        "Hardangervidda",
         "Solheimstulen",
         "Rauhelleren",
         "Mårbu",
@@ -22,7 +22,7 @@ let hyttScrape = [
         "Gaustatoppen turisthytte"
     ],
     [
-        "Betjente hytter i Jotunheimen",
+        "Jotunheimen",
         "Fannaråkhytta",
         "Fondsbu",
         "Glitterheim",
@@ -32,7 +32,7 @@ let hyttScrape = [
         "Leirvassbu 150 år"
     ],
     [
-        "Betjente hytter i Rondane og Dovre",
+        "Rondane og Dovre",
         "Grimsdalshytta",
         "Bjørnhollia",
         "Snøheim",
@@ -40,7 +40,7 @@ let hyttScrape = [
         "Vangshaugen"
     ],
     [
-        "Betjente hytter i Trollheimen og Sylan",
+        "Trollheimen og Sylan",
         "Trollheimshytta",
         "Gjevilvasshytta",
         "Jøldalshytta",
@@ -50,35 +50,44 @@ let hyttScrape = [
         "Schulzhytta"
     ],
     [
-        "Betjente hytter i Skarvheimen",
+        "Skarvheimen",
         "Iungsdalshytta",
         "Aurlandsdalen Turisthytte",
         "Geiterygghytta",
         "Finsehytta"
     ],
     [
-        "Betjente hytter i Ryfylke",
+        "Ryfylke",
         "Haukeliseter",
         "Stranddalen turisthytte",
         "Lysefjorden turisthytte",
         "Gramstadtunet"
     ],
     [
-        "Betjente hytter Breheimen med Jostedalsbreen",
+        "Breheimen med Jostedalsbreen",
         "Sota Sæter",
         "Nørdstedalseter",
         "Tungestølen"
     ],
     [
-        "Betjente hytter i Langsua og Femundsmarka",
+        "Langsua og Femundsmarka",
         "Liomseter",
         "Svukuriset"
     ],
     [
-        "Betjente hytter i nærheten av Oslo og Drammen",
+        "Oslo og Drammen",
         "Eiksetra",
         "Sæteren Gård",
         "Breivoll Gård",
         "Kobberhaughytta"
     ]
-]
+];
+hytter = [];
+hyttScrape.forEach(hytteOm => {
+    for (let i = 1; i < hytteOm.length; i++) {
+        let hytte = {}
+        hytte["omrade"] = hytteOm[0]
+        hytte["navn"] = hytteOm[i]
+        hytter.push(hytte);
+    }
+});
