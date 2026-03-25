@@ -1,0 +1,556 @@
+{
+        "FRUKT": [
+        {
+            "BildeURL": "https://d3n3udvbogpuxv.cloudfront.net/6v7xr2re6e__w=735_h=490_autocrop=true",
+            "Navn": "Ananas"
+        },
+        {
+            "BildeURL": "https://d3n3udvbogpuxv.cloudfront.net/uedx2xd4tq__w=735_h=490_autocrop=true",
+            "Navn": "Appelsiner"
+        },
+        {
+            "BildeURL": "https://d3n3udvbogpuxv.cloudfront.net/lzyrx6c3hr__w=711_h=474_autocrop=true",
+            "Navn": "Aprikos"
+        },
+        {
+            "BildeURL": "https://d3n3udvbogpuxv.cloudfront.net/fhl3rf45gk__w=711_h=474_autocrop=true",
+            "Navn": "Babaco"
+        },
+        {
+            "BildeURL": "https://d3n3udvbogpuxv.cloudfront.net/8556tc4jtn__w=711_h=474_autocrop=true",
+            "Navn": "Banan"
+        },
+        {
+            "BildeURL": "https://d3n3udvbogpuxv.cloudfront.net/7j4rbgtc36__w=711_h=474_autocrop=true",
+            "Navn": "Carambola, Stjernefrukt"
+        },
+        {
+            "BildeURL": "https://d3n3udvbogpuxv.cloudfront.net/f6z3xnpkln__w=711_h=474_autocrop=true",
+            "Navn": "Cherimoya"
+        },
+        {
+            "BildeURL": "https://d3n3udvbogpuxv.cloudfront.net/skc8kyqsmc__w=711_h=474_autocrop=true",
+            "Navn": "Daddel"
+        },
+        {
+            "BildeURL": "https://d3n3udvbogpuxv.cloudfront.net/kvk2beb5gt__w=711_h=474_autocrop=true",
+            "Navn": "Druer"
+        },
+        {
+            "BildeURL": "https://d3n3udvbogpuxv.cloudfront.net/qyem6rpeee__w=711_h=474_autocrop=true",
+            "Navn": "Durian"
+        },
+        {
+            "BildeURL": "https://d3n3udvbogpuxv.cloudfront.net/vy2n2jfybu__w=711_h=474_autocrop=true",
+            "Navn": "Epler"
+        },
+        {
+            "BildeURL": "https://d3n3udvbogpuxv.cloudfront.net/cpl2bl4hcl__w=711_h=474_autocrop=true",
+            "Navn": "Feijoa"
+        },
+        {
+            "BildeURL": "https://d3n3udvbogpuxv.cloudfront.net/u2vfdtdnnp__w=711_h=474_autocrop=true",
+            "Navn": "Fersken"
+        },
+        {
+            "BildeURL": "https://d3n3udvbogpuxv.cloudfront.net/uq7ydcp58k__w=711_h=474_autocrop=true",
+            "Navn": "Fiken"
+        },
+        {
+            "BildeURL": "https://d3n3udvbogpuxv.cloudfront.net/cbhhrhqta3__w=711_h=474_autocrop=true",
+            "Navn": "Granateple"
+        },
+        {
+            "BildeURL": "https://d3n3udvbogpuxv.cloudfront.net/xvejaknpcc__w=711_h=474_autocrop=true",
+            "Navn": "Grapefrukt"
+        },
+        {
+            "BildeURL": "https://d3n3udvbogpuxv.cloudfront.net/35rvl3ylz4__w=711_h=474_autocrop=true",
+            "Navn": "Guava"
+        },
+        {
+            "BildeURL": "https://d3n3udvbogpuxv.cloudfront.net/7rzqpygp8n__w=711_h=474_autocrop=true",
+            "Navn": "Jackfrukt"
+        },
+        {
+            "BildeURL": "https://d3n3udvbogpuxv.cloudfront.net/6gv4gq55r4__w=711_h=474_autocrop=true",
+            "Navn": "Johannesbrød"
+        },
+        {
+            "BildeURL": "https://d3n3udvbogpuxv.cloudfront.net/523hc35ryu__w=711_h=474_autocrop=true",
+            "Navn": "Kaffirlime"
+        },
+        {
+            "BildeURL": "https://d3n3udvbogpuxv.cloudfront.net/qye2m3y64l__w=711_h=474_autocrop=true",
+            "Navn": "Kaktusfiken"
+        },
+        {
+            "BildeURL": "https://d3n3udvbogpuxv.cloudfront.net/tme5xakz4g__w=711_h=474_autocrop=true",
+            "Navn": "Kirsebær"
+        },
+        {
+            "BildeURL": "https://d3n3udvbogpuxv.cloudfront.net/j4ubxu5a84__w=711_h=474_autocrop=true",
+            "Navn": "Kiwai"
+        },
+        {
+            "BildeURL": "https://d3n3udvbogpuxv.cloudfront.net/nl67vpqz7x__w=711_h=474_autocrop=true",
+            "Navn": "Kiwano"
+        },
+        {
+            "BildeURL": "https://d3n3udvbogpuxv.cloudfront.net/b5npr3dz6n__w=711_h=474_autocrop=true",
+            "Navn": "Kiwi"
+        },
+        {
+            "BildeURL": "https://d3n3udvbogpuxv.cloudfront.net/tzuchbepp3__w=711_h=474_autocrop=true",
+            "Navn": "Klementiner"
+        },
+        {
+            "BildeURL": "https://d3n3udvbogpuxv.cloudfront.net/hvsvpyrlcl__w=711_h=474_autocrop=true",
+            "Navn": "Kokosnøtter"
+        },
+        {
+            "BildeURL": "https://d3n3udvbogpuxv.cloudfront.net/3m5g7hevks__w=711_h=474_autocrop=true",
+            "Navn": "Kumquat"
+        },
+        {
+            "BildeURL": "https://d3n3udvbogpuxv.cloudfront.net/r66z7jzeav__w=711_h=474_autocrop=true",
+            "Navn": "Kvede"
+        },
+        {
+            "BildeURL": "https://d3n3udvbogpuxv.cloudfront.net/jtmhqt72t7__w=711_h=474_autocrop=true",
+            "Navn": "Lime"
+        },
+        {
+            "BildeURL": "https://d3n3udvbogpuxv.cloudfront.net/l7vvyu6zbt__w=711_h=474_autocrop=true",
+            "Navn": "Litchi"
+        },
+        {
+            "BildeURL": "https://d3n3udvbogpuxv.cloudfront.net/kdkdjxn4kc__w=711_h=474_autocrop=true",
+            "Navn": "Mandariner"
+        },
+        {
+            "BildeURL": "https://d3n3udvbogpuxv.cloudfront.net/nnlkjydxtb__w=711_h=474_autocrop=true",
+            "Navn": "Mango"
+        },
+        {
+            "BildeURL": "https://d3n3udvbogpuxv.cloudfront.net/zx2ms7u7x4__w=711_h=474_autocrop=true",
+            "Navn": "Mangostan"
+        },
+        {
+            "BildeURL": "https://d3n3udvbogpuxv.cloudfront.net/6pg6vgkvgx__w=711_h=474_autocrop=true",
+            "Navn": "Meloner"
+        },
+        {
+            "BildeURL": "https://d3n3udvbogpuxv.cloudfront.net/y6qb7daete__w=711_h=474_autocrop=true",
+            "Navn": "Mispel, Loquat"
+        },
+        {
+            "BildeURL": "https://d3n3udvbogpuxv.cloudfront.net/6ccjz4kh7s__w=711_h=474_autocrop=true",
+            "Navn": "Moreller"
+        },
+        {
+            "BildeURL": "https://d3n3udvbogpuxv.cloudfront.net/2rtptsgdln__w=711_h=474_autocrop=true",
+            "Navn": "Nashi"
+        },
+        {
+            "BildeURL": "https://d3n3udvbogpuxv.cloudfront.net/fa8f8yvdlb__w=711_h=474_autocrop=true",
+            "Navn": "Nektarin"
+        },
+        {
+            "BildeURL": "https://d3n3udvbogpuxv.cloudfront.net/hrc3mlaylt__w=711_h=474_autocrop=true",
+            "Navn": "Papaya"
+        },
+        {
+            "BildeURL": "https://d3n3udvbogpuxv.cloudfront.net/ca6qnsmvxt__w=711_h=474_autocrop=true",
+            "Navn": "Pasjonsfrukt"
+        },
+        {
+            "BildeURL": "https://d3n3udvbogpuxv.cloudfront.net/y65avzfe8a__w=711_h=474_autocrop=true",
+            "Navn": "Pepino"
+        },
+        {
+            "BildeURL": "https://d3n3udvbogpuxv.cloudfront.net/t6czl2e22a__w=711_h=474_autocrop=true",
+            "Navn": "Physalis"
+        },
+        {
+            "BildeURL": "https://d3n3udvbogpuxv.cloudfront.net/s6pfcmvbxb__w=711_h=474_autocrop=true",
+            "Navn": "Pitahaya"
+        },
+        {
+            "BildeURL": "https://d3n3udvbogpuxv.cloudfront.net/htrzlvgg55__w=711_h=474_autocrop=true",
+            "Navn": "Plommer"
+        },
+        {
+            "BildeURL": "https://d3n3udvbogpuxv.cloudfront.net/rvvzarlj4j__w=711_h=474_autocrop=true",
+            "Navn": "Pomelo"
+        },
+        {
+            "BildeURL": "https://d3n3udvbogpuxv.cloudfront.net/u7bl22hg2h__w=711_h=474_autocrop=true",
+            "Navn": "Pærer"
+        },
+        {
+            "BildeURL": "https://d3n3udvbogpuxv.cloudfront.net/46vub7epkc__w=711_h=474_autocrop=true",
+            "Navn": "Rabarbra"
+        },
+        {
+            "BildeURL": "https://d3n3udvbogpuxv.cloudfront.net/6xyf87aytn__w=711_h=474_autocrop=true",
+            "Navn": "Rambutan"
+        },
+        {
+            "BildeURL": "https://d3n3udvbogpuxv.cloudfront.net/hgxuntc7rf__w=711_h=474_autocrop=true",
+            "Navn": "Salak"
+        },
+        {
+            "BildeURL": "https://d3n3udvbogpuxv.cloudfront.net/6uqpffaz7y__w=711_h=474_autocrop=true",
+            "Navn": "Sapodilla"
+        },
+        {
+            "BildeURL": "https://d3n3udvbogpuxv.cloudfront.net/3ts4bbamuq__w=711_h=474_autocrop=true",
+            "Navn": "Sharon, kaki, persimon"
+        },
+        {
+            "BildeURL": "https://d3n3udvbogpuxv.cloudfront.net/8sea75mqs8__w=711_h=474_autocrop=true",
+            "Navn": "Sitron"
+        },
+        {
+            "BildeURL": "https://d3n3udvbogpuxv.cloudfront.net/km6bsdjzas__w=711_h=474_autocrop=true",
+            "Navn": "Sukkerrør"
+        },
+        {
+            "BildeURL": "https://d3n3udvbogpuxv.cloudfront.net/pmtqnra2mn__w=711_h=474_autocrop=true",
+            "Navn": "Sweetie"
+        },
+        {
+            "BildeURL": "https://d3n3udvbogpuxv.cloudfront.net/hs3ddzk87p__w=711_h=474_autocrop=true",
+            "Navn": "Tamarillo"
+        },
+        {
+            "BildeURL": "https://d3n3udvbogpuxv.cloudfront.net/4fbl8naacd__w=711_h=474_autocrop=true",
+            "Navn": "Tamarind"
+        },
+        {
+            "BildeURL": "https://d3n3udvbogpuxv.cloudfront.net/y743yntuby__w=711_h=474_autocrop=true",
+            "Navn": "Tindved"
+        },
+        {
+            "BildeURL": "https://d3n3udvbogpuxv.cloudfront.net/rrsp8qfhz7__w=711_h=474_autocrop=true",
+            "Navn": "Ugli"
+        }
+    ],
+        "GRONSAKER": [
+        {
+            "BildeURL": "https://d3n3udvbogpuxv.cloudfront.net/vpfqcfx6rr__w=735_h=490_autocrop=true",
+            "Navn": "Artiskokk"
+        },
+        {
+            "BildeURL": "https://d3n3udvbogpuxv.cloudfront.net/sr7dg7adc5__w=735_h=490_autocrop=true",
+            "Navn": "Asparges, grønn"
+        },
+        {
+            "BildeURL": "https://d3n3udvbogpuxv.cloudfront.net/sg4p8jcm2h__w=711_h=474_autocrop=true",
+            "Navn": "Asparges, hvit"
+        },
+        {
+            "BildeURL": "https://d3n3udvbogpuxv.cloudfront.net/ek3r45svfr__w=711_h=474_autocrop=true",
+            "Navn": "Aubergine"
+        },
+        {
+            "BildeURL": "https://d3n3udvbogpuxv.cloudfront.net/q7ag538pg5__w=711_h=474_autocrop=true",
+            "Navn": "Avokado"
+        },
+        {
+            "BildeURL": "https://d3n3udvbogpuxv.cloudfront.net/ajhhvxzufy__w=711_h=474_autocrop=true",
+            "Navn": "Blomkål"
+        },
+        {
+            "BildeURL": "https://d3n3udvbogpuxv.cloudfront.net/jjx85sm3cd__w=711_h=474_autocrop=true",
+            "Navn": "Brokkoli"
+        },
+        {
+            "BildeURL": "https://d3n3udvbogpuxv.cloudfront.net/y2vv4tuyz4__w=711_h=474_autocrop=true",
+            "Navn": "Brokkolini"
+        },
+        {
+            "BildeURL": "https://d3n3udvbogpuxv.cloudfront.net/nb872qhaam__w=711_h=474_autocrop=true",
+            "Navn": "Chayote"
+        },
+        {
+            "BildeURL": "https://d3n3udvbogpuxv.cloudfront.net/dfjnjn63ve__w=711_h=474_autocrop=true",
+            "Navn": "Chili"
+        },
+        {
+            "BildeURL": "https://d3n3udvbogpuxv.cloudfront.net/75rkhvu2hg__w=711_h=474_autocrop=true",
+            "Navn": "Dhudi"
+        },
+        {
+            "BildeURL": "https://d3n3udvbogpuxv.cloudfront.net/hatekz6pde__w=711_h=474_autocrop=true",
+            "Navn": "Erter og bønner"
+        },
+        {
+            "BildeURL": "https://d3n3udvbogpuxv.cloudfront.net/f2bz4s2asj__w=711_h=474_autocrop=true",
+            "Navn": "Fennikel"
+        },
+        {
+            "BildeURL": "https://d3n3udvbogpuxv.cloudfront.net/fxyl3sak24__w=711_h=474_autocrop=true",
+            "Navn": "Galangarot"
+        },
+        {
+            "BildeURL": "https://d3n3udvbogpuxv.cloudfront.net/kdxcgmvgla__w=711_h=474_autocrop=true",
+            "Navn": "Gresskar"
+        },
+        {
+            "BildeURL": "https://d3n3udvbogpuxv.cloudfront.net/7usugfvl2n__w=711_h=474_autocrop=true",
+            "Navn": "Grønn pepper"
+        },
+        {
+            "BildeURL": "https://d3n3udvbogpuxv.cloudfront.net/ldxrk5upy5__w=711_h=474_autocrop=true",
+            "Navn": "Grønnkål"
+        },
+        {
+            "BildeURL": "https://d3n3udvbogpuxv.cloudfront.net/a2fqm76et7__w=711_h=474_autocrop=true",
+            "Navn": "Gulrot"
+        },
+        {
+            "BildeURL": "https://d3n3udvbogpuxv.cloudfront.net/34sbvnma6t__w=711_h=474_autocrop=true",
+            "Navn": "Gurkemeie"
+        },
+        {
+            "BildeURL": "https://d3n3udvbogpuxv.cloudfront.net/echaprvmsr__w=711_h=474_autocrop=true",
+            "Navn": "Havrerot"
+        },
+        {
+            "BildeURL": "https://d3n3udvbogpuxv.cloudfront.net/2x3emymqr5__w=711_h=474_autocrop=true",
+            "Navn": "Hodekål, Hvitkål"
+        },
+        {
+            "BildeURL": "https://d3n3udvbogpuxv.cloudfront.net/5skzvn4d3r__w=711_h=474_autocrop=true",
+            "Navn": "Ingefær"
+        },
+        {
+            "BildeURL": "https://d3n3udvbogpuxv.cloudfront.net/bddr63sp8a__w=711_h=474_autocrop=true",
+            "Navn": "Jordskokk"
+        },
+        {
+            "BildeURL": "https://d3n3udvbogpuxv.cloudfront.net/b6raxuzqlb__w=711_h=474_autocrop=true",
+            "Navn": "Karella"
+        },
+        {
+            "BildeURL": "https://d3n3udvbogpuxv.cloudfront.net/xssbcngqz8__w=711_h=474_autocrop=true",
+            "Navn": "Kassava"
+        },
+        {
+            "BildeURL": "https://d3n3udvbogpuxv.cloudfront.net/ctjjfsfkq6__w=711_h=474_autocrop=true",
+            "Navn": "Kinakål"
+        },
+        {
+            "BildeURL": "https://d3n3udvbogpuxv.cloudfront.net/lnp4pr5pv2__w=711_h=474_autocrop=true",
+            "Navn": "Kinaskokk"
+        },
+        {
+            "BildeURL": "https://d3n3udvbogpuxv.cloudfront.net/vlgrxhx7cq__w=711_h=474_autocrop=true",
+            "Navn": "Knutekål"
+        },
+        {
+            "BildeURL": "https://d3n3udvbogpuxv.cloudfront.net/qe7x82sk68__w=711_h=474_autocrop=true",
+            "Navn": "Krydderurter"
+        },
+        {
+            "BildeURL": "https://d3n3udvbogpuxv.cloudfront.net/vu4dcmqjf6__w=711_h=474_autocrop=true",
+            "Navn": "Kålrot, Kålrabi"
+        },
+        {
+            "BildeURL": "https://d3n3udvbogpuxv.cloudfront.net/pl6la8jggh__w=711_h=474_autocrop=true",
+            "Navn": "Lotusrot"
+        },
+        {
+            "BildeURL": "https://d3n3udvbogpuxv.cloudfront.net/3cnf276lex__w=711_h=474_autocrop=true",
+            "Navn": "Løk og purre"
+        },
+        {
+            "BildeURL": "https://d3n3udvbogpuxv.cloudfront.net/szgvsaafda__w=711_h=474_autocrop=true",
+            "Navn": "Mais"
+        },
+        {
+            "BildeURL": "https://d3n3udvbogpuxv.cloudfront.net/m2pcsy5sa3__w=711_h=474_autocrop=true",
+            "Navn": "Nepe"
+        },
+        {
+            "BildeURL": "https://d3n3udvbogpuxv.cloudfront.net/4jhmx75tnq__w=711_h=474_autocrop=true",
+            "Navn": "Okra"
+        },
+        {
+            "BildeURL": "https://d3n3udvbogpuxv.cloudfront.net/xzqrbshsmh__w=711_h=474_autocrop=true",
+            "Navn": "Pak Choy"
+        },
+        {
+            "BildeURL": "https://d3n3udvbogpuxv.cloudfront.net/xznuflafua__w=711_h=474_autocrop=true",
+            "Navn": "Paprika"
+        },
+        {
+            "BildeURL": "https://d3n3udvbogpuxv.cloudfront.net/znuravbyzx__w=711_h=474_autocrop=true",
+            "Navn": "Pastinakk"
+        },
+        {
+            "BildeURL": "https://d3n3udvbogpuxv.cloudfront.net/tc34vqhjkm__w=711_h=474_autocrop=true",
+            "Navn": "Pepperrot"
+        },
+        {
+            "BildeURL": "https://d3n3udvbogpuxv.cloudfront.net/tcp2xu2mn7__w=711_h=474_autocrop=true",
+            "Navn": "Persillerot"
+        },
+        {
+            "BildeURL": "https://d3n3udvbogpuxv.cloudfront.net/um7l3gh5a8__w=711_h=474_autocrop=true",
+            "Navn": "Pyntekål"
+        },
+        {
+            "BildeURL": "https://d3n3udvbogpuxv.cloudfront.net/5equ6c5ufk__w=711_h=474_autocrop=true",
+            "Navn": "Reddik"
+        },
+        {
+            "BildeURL": "https://d3n3udvbogpuxv.cloudfront.net/7y8nyc2euq__w=711_h=474_autocrop=true",
+            "Navn": "Rettich"
+        },
+        {
+            "BildeURL": "https://d3n3udvbogpuxv.cloudfront.net/fjvk57ruun__w=711_h=474_autocrop=true",
+            "Navn": "Romanesco"
+        },
+        {
+            "BildeURL": "https://d3n3udvbogpuxv.cloudfront.net/2ljpv43xfd__w=711_h=474_autocrop=true",
+            "Navn": "Rosenkål"
+        },
+        {
+            "BildeURL": "https://d3n3udvbogpuxv.cloudfront.net/5yncljp5v6__w=711_h=474_autocrop=true",
+            "Navn": "Rosettkål"
+        },
+        {
+            "BildeURL": "https://d3n3udvbogpuxv.cloudfront.net/c3vc5hru8c__w=711_h=474_autocrop=true",
+            "Navn": "Rødbete"
+        },
+        {
+            "BildeURL": "https://d3n3udvbogpuxv.cloudfront.net/qye4abvhaq__w=711_h=474_autocrop=true",
+            "Navn": "Rødkål"
+        },
+        {
+            "BildeURL": "https://d3n3udvbogpuxv.cloudfront.net/hgs64phmda__w=711_h=474_autocrop=true",
+            "Navn": "Salater"
+        },
+        {
+            "BildeURL": "https://d3n3udvbogpuxv.cloudfront.net/kf7ggf6m5u__w=711_h=474_autocrop=true",
+            "Navn": "Salturt"
+        },
+        {
+            "BildeURL": "https://d3n3udvbogpuxv.cloudfront.net/n24m3fg8ml__w=711_h=474_autocrop=true",
+            "Navn": "Savoykål"
+        },
+        {
+            "BildeURL": "https://d3n3udvbogpuxv.cloudfront.net/atdrrj2xy7__w=711_h=474_autocrop=true",
+            "Navn": "Sellerirot, Knollselleri"
+        },
+        {
+            "BildeURL": "https://d3n3udvbogpuxv.cloudfront.net/zrcvy5cnek__w=711_h=474_autocrop=true",
+            "Navn": "Sitrongress"
+        },
+        {
+            "BildeURL": "https://d3n3udvbogpuxv.cloudfront.net/ybpbs5xxql__w=711_h=474_autocrop=true",
+            "Navn": "Skorsonerrot"
+        },
+        {
+            "BildeURL": "https://d3n3udvbogpuxv.cloudfront.net/z7dx4npr7l__w=711_h=474_autocrop=true",
+            "Navn": "Slangeagurk, Agurk"
+        },
+        {
+            "BildeURL": "https://d3n3udvbogpuxv.cloudfront.net/e2xp6mudyn__w=711_h=474_autocrop=true",
+            "Navn": "Sopp"
+        },
+        {
+            "BildeURL": "https://d3n3udvbogpuxv.cloudfront.net/qg7exc84t5__w=711_h=474_autocrop=true",
+            "Navn": "Spirer"
+        },
+        {
+            "BildeURL": "https://d3n3udvbogpuxv.cloudfront.net/83l2pnuyzt__w=711_h=474_autocrop=true",
+            "Navn": "Spisskål"
+        },
+        {
+            "BildeURL": "https://d3n3udvbogpuxv.cloudfront.net/m4qn54ppby__w=711_h=474_autocrop=true",
+            "Navn": "Squash"
+        },
+        {
+            "BildeURL": "https://d3n3udvbogpuxv.cloudfront.net/klz6nlbum4__w=711_h=474_autocrop=true",
+            "Navn": "Stilkselleri, Stangselleri"
+        },
+        {
+            "BildeURL": "https://d3n3udvbogpuxv.cloudfront.net/6bq2j2anjv__w=711_h=474_autocrop=true",
+            "Navn": "Sylteagurk, Asier"
+        },
+        {
+            "BildeURL": "https://d3n3udvbogpuxv.cloudfront.net/qfdzj62xn8__w=711_h=474_autocrop=true",
+            "Navn": "Søtpotet"
+        },
+        {
+            "BildeURL": "https://d3n3udvbogpuxv.cloudfront.net/k7lgvhfxg5__w=711_h=474_autocrop=true",
+            "Navn": "Taro, Eddo"
+        },
+        {
+            "BildeURL": "https://d3n3udvbogpuxv.cloudfront.net/xbqj62tzdm__w=711_h=474_autocrop=true",
+            "Navn": "Nykål, tidligkål"
+        },
+        {
+            "BildeURL": "https://d3n3udvbogpuxv.cloudfront.net/yej82z4fgz__w=711_h=474_autocrop=true",
+            "Navn": "Tomater"
+        },
+        {
+            "BildeURL": "https://d3n3udvbogpuxv.cloudfront.net/mudegremt7__w=711_h=474_autocrop=true",
+            "Navn": "Tomatillo"
+        },
+        {
+            "BildeURL": "https://d3n3udvbogpuxv.cloudfront.net/ebuz8latug__w=711_h=474_autocrop=true",
+            "Navn": "Yams"
+        }
+    ],
+        "BER": [
+        {
+            "BildeURL": "https://d3n3udvbogpuxv.cloudfront.net/a4ztbfchhf__w=735_h=490_autocrop=true",
+            "Navn": "Bjørnebær"
+        },
+        {
+            "BildeURL": "https://d3n3udvbogpuxv.cloudfront.net/tfyx2fd5f5__w=735_h=490_autocrop=true",
+            "Navn": "Blåbær"
+        },
+        {
+            "BildeURL": "https://d3n3udvbogpuxv.cloudfront.net/ma5kstyk8u__w=711_h=474_autocrop=true",
+            "Navn": "Boysenbær"
+        },
+        {
+            "BildeURL": "https://d3n3udvbogpuxv.cloudfront.net/ag7tnr7jmd__w=711_h=474_autocrop=true",
+            "Navn": "Bringebær"
+        },
+        {
+            "BildeURL": "https://d3n3udvbogpuxv.cloudfront.net/evdl58khtj__w=711_h=474_autocrop=true",
+            "Navn": "Jordbær"
+        },
+        {
+            "BildeURL": "https://d3n3udvbogpuxv.cloudfront.net/r4ecb5bcye__w=711_h=474_autocrop=true",
+            "Navn": "Multer"
+        },
+        {
+            "BildeURL": "https://d3n3udvbogpuxv.cloudfront.net/pes388emgr__w=711_h=474_autocrop=true",
+            "Navn": "Rips"
+        },
+        {
+            "BildeURL": "https://d3n3udvbogpuxv.cloudfront.net/6zaunx6ktk__w=711_h=474_autocrop=true",
+            "Navn": "Solbær"
+        },
+        {
+            "BildeURL": "https://d3n3udvbogpuxv.cloudfront.net/gqsxdxpqfl__w=711_h=474_autocrop=true",
+            "Navn": "Stikkelsbær"
+        },
+        {
+            "BildeURL": "https://d3n3udvbogpuxv.cloudfront.net/4yk7mvpkn8__w=711_h=474_autocrop=true",
+            "Navn": "Tranebær"
+        },
+        {
+            "BildeURL": "https://d3n3udvbogpuxv.cloudfront.net/4nmzy3qgzy__w=711_h=474_autocrop=true",
+            "Navn": "Tyttebær"
+        }
+    ]
+}

@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>datascraping</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <h1>Forskjellige datascraping lister jeg har laget som eksempler for dere</h1>
+    <main></main>
+</body>
+<script>
+    let lister = [
+        {
+            tittel: "FIS Ski",
+            forklaring: "Liste over alle alpinister fra FIS",
+            link: "FIS/liste.html"
+        },
+        {
+            tittel: "Frukt og Grønt",
+            forklaring: "Liste over alle frukter, grønnsaker og bær fra Frukt.no",
+            link: "FRUKT/liste.html"
+        },
+        {
+            tittel: "Matoppskrifter",
+            forklaring: "Liste over oppskrifter fra matprat",
+            link: "MATPRAT/liste.html"
+        }
+    ];
+    let mainEL = document.querySelector("main");
+    
+    lister.forEach(liste => {
+        let link = document.createElement("a");
+        link.href = liste["link"];
+        let div = document.createElement("div");
+        let h3 =document.createElement("h3");
+        h3.innerText = liste["tittel"];
+        let p = document.createElement("p");
+        p.innerText = liste["forklaring"];
+        div.appendChild(h3);
+        div.appendChild(p);
+        link.appendChild(div);
+        mainEL.appendChild(link)
+
+    });
+
+        
+
+</script>
+
+</html>
